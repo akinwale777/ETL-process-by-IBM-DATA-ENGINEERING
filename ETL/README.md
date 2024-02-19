@@ -12,3 +12,14 @@ after the Download, The file need to be unzip by typeing the command unzip filen
 
 # unzip source.zip
 
+Then i installed all the library i will need in the terminal using the code
+# python3 -m pip install pandas
+
+Task one is to create the function to extract the data from the various file
+then create the function where to append all the extracted files too. This will involve calling all the previous extract functions for extracting from the various files.
+
+Task two is to create the transformation function
+
+Task three is to the create the Log and load function
+
+Task for is to then combined all the function for the etl process as can been seen in the etl.py code
