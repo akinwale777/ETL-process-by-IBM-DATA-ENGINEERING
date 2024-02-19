@@ -29,4 +29,11 @@ count = 0
 
 the next step is to create the respond object and then use beautiful soup to parse the object.
 
+the  next step was to visit the websitte and inspect the page and determine the table to extract the data from.
+I then created a list called tables to hold all the table tag in the page ('tbody')
+I then created another list call rows to hold all the rows in the table table. the row have the tag 'tr'
+
+Then the df is saved as csv file and also saved in a db using sqlite3 aas seen in the webscraping.py file
+
+
 
